@@ -61,7 +61,7 @@ $ cat /etc/hosts
 
 ![Кластер в админке](https://github.com/deadwhitepunk/sdb-hw-04/blob/main/img/image_cluster1.png)
 
-![Политика HA](https://github.com/deadwhitepunk/sdb-hw-04/blob/main/img/image_cluster_policies.png)
+![Политика HA](https://github.com/deadwhitepunk/sdb-hw-04/blob/main/img/image_cluster_polices.png)
 
 Также приложите вывод команды с двух нод:
 
